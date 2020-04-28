@@ -1,0 +1,12 @@
+.url-grow{
+  flex-grow: 1;
+}
+
+.warning-msg{
+  font-style: italic;
+  color: red;
+}
+
+.showspinner{
+  text-align: center;
+}
